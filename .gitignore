@@ -1,0 +1,8 @@
+.gh_token
+device_auth_status.txt
+movement_lmh_config.ini
+upload_to_github.py
+رفع_المشروع_على_GitHub.bat
+Movement-LMH-v2.5.0.zip
+__pycache__/
+*.pyc
